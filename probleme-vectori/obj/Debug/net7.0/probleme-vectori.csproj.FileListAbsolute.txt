@@ -1,0 +1,14 @@
+F:\mycode\csharp\probleme\probleme-vectori\probleme-vectori\obj\Debug\net7.0\probleme-vectori.GeneratedMSBuildEditorConfig.editorconfig
+F:\mycode\csharp\probleme\probleme-vectori\probleme-vectori\obj\Debug\net7.0\probleme-vectori.AssemblyInfoInputs.cache
+F:\mycode\csharp\probleme\probleme-vectori\probleme-vectori\obj\Debug\net7.0\probleme-vectori.AssemblyInfo.cs
+F:\mycode\csharp\probleme\probleme-vectori\probleme-vectori\obj\Debug\net7.0\probleme-vectori.csproj.CoreCompileInputs.cache
+F:\mycode\csharp\probleme\probleme-vectori\probleme-vectori\bin\Debug\net7.0\probleme-vectori.exe
+F:\mycode\csharp\probleme\probleme-vectori\probleme-vectori\bin\Debug\net7.0\probleme-vectori.deps.json
+F:\mycode\csharp\probleme\probleme-vectori\probleme-vectori\bin\Debug\net7.0\probleme-vectori.runtimeconfig.json
+F:\mycode\csharp\probleme\probleme-vectori\probleme-vectori\bin\Debug\net7.0\probleme-vectori.dll
+F:\mycode\csharp\probleme\probleme-vectori\probleme-vectori\bin\Debug\net7.0\probleme-vectori.pdb
+F:\mycode\csharp\probleme\probleme-vectori\probleme-vectori\obj\Debug\net7.0\probleme-vectori.dll
+F:\mycode\csharp\probleme\probleme-vectori\probleme-vectori\obj\Debug\net7.0\refint\probleme-vectori.dll
+F:\mycode\csharp\probleme\probleme-vectori\probleme-vectori\obj\Debug\net7.0\probleme-vectori.pdb
+F:\mycode\csharp\probleme\probleme-vectori\probleme-vectori\obj\Debug\net7.0\probleme-vectori.genruntimeconfig.cache
+F:\mycode\csharp\probleme\probleme-vectori\probleme-vectori\obj\Debug\net7.0\ref\probleme-vectori.dll
